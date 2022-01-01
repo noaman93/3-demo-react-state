@@ -1,0 +1,25 @@
+button {
+  background-color: cadetblue;
+  padding: 5px;
+  border-radius: 10px;
+  margin-right: 15px;
+}
+
+button:hover {
+  background-color: yellowgreen;
+}
+
+.room {
+  height: 100vh;
+  background-color: chartreuse;
+}
+
+.light {
+  background-color: wheat;
+  color: black;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}

@@ -2,9 +2,10 @@ import Room from "./Room";
 
 function App() {
   return (
-    <div>
+    <>
+      <h1>My Room</h1>
       <Room></Room>
-    </div>
+    </>
   );
 }
 
